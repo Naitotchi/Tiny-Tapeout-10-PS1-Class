@@ -4,7 +4,7 @@ project:
   title:        "Tiny-Tapeout-10-PS1-Class"      # Project title
   author:       "James Lamken"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Changes LEDs based on switch position"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
